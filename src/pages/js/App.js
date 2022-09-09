@@ -2,8 +2,10 @@ import React from 'react';
 
 import './../css/App.css';
 
+import 'bootstrap/dist/css/bootstrap.min.css'
+
 function App() {
-  return (<></>);
+  return (<><h1>Hola mundo</h1></>);
 }
 
 export default App;
